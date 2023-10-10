@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chuchu2005" alt="chuchu2005" /></a> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/peter-okafor-1261b21b4/**
+- 📫 My Portfolio - **(https://peterokafor.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
